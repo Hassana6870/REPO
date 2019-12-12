@@ -1,0 +1,1 @@
+An automatic merge is when someone's work automatically appears with no conflict.
